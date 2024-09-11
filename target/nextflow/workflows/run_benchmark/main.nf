@@ -3280,7 +3280,7 @@ meta = [
     "engine" : "native",
     "output" : "target/nextflow/workflows/run_benchmark",
     "viash_version" : "0.9.0",
-    "git_commit" : "0233b0925228cebe0e1f8b17a2238b8fffbe144d",
+    "git_commit" : "0431995d7dde0c62ca82d2769ab7359fabd60865",
     "git_remote" : "https://github.com/openproblems-bio/test"
   },
   "package_config" : {
